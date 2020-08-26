@@ -1,0 +1,190 @@
+---------------------------Day 1-------------------
+
+Explain "hoisting".
+What are the differences between variables created using let, var or const?
+Can you give an example for destructuring an object or an array?
+Can you give an example of generating a string with ES6 Template Literals?
+How do you compare Object and Map?
+What is scope in javascript?
+What are global variables?
+What are the differences between undeclared and undefined variables?
+How do you assign default values to variables?
+What are the benefits of keeping declarations at the top?
+What are the benefits of initializing variables?
+What is a spread operator?
+
+---------------------Day 2 -------------------------
+* What's the difference between a variable that is: null, undefined or undeclared?
+* What is a closure, and how/why would you use one?
+* What's a typical use case for anonymous functions?
+* Explain the difference between: function Person(){}, var person = Person(), and var person = new Person()?
+* Explain Function.prototype.bind
+* Explain the difference between synchronous and asynchronous functions.
+* What are the differences between ES6 class and ES5 function constructors?
+* Can you offer a use case for the new arrow => function syntax? How does this new syntax differ from other functions?
+* What advantage is there for using the arrow syntax for a method in a constructor?
+* What is the definition of a higher-order function?
+* What happens if you write constructor more than once in a class?
+* How do you get the prototype of an object?
+* Is all objects have prototypes?
+* What is prototype chain?
+* What are closures?
+
+@channel Here are your day 3 questions, you can begin with the exercise of calling and discussing these
+What language constructions do you use for iterating over object properties and array items?
+Can you describe the main difference between the Array.forEach() loop and Array.map() methods and why you would pick one versus the other?
+Can you explain what Function.call and Function.apply do? What's the notable difference between the two?
+Explain Function.prototype.bind.
+What is the definition of a higher-order function?
+Can you give an example of a curry function and why this syntax offers an advantage?
+What is a unary function?
+What is a pure function?
+What is memoization?
+
+
+@channel Day 4 questions
+Explain event delegation.
+What's the difference between host objects and native objects?
+Describe event bubbling.
+Describe event capturing.
+What is an event flow?
+What is BOM?
+What is the use of stopPropagation method?
+What are the properties used to get size of window?
+What are the DOM methods available for constraint validation?
+How do you perform form validation using javascript?
+How do you perform form validation without javascript?
+What are the different methods to find HTML elements in DOM?
+
+
+@channel Day 5 questions
+Explain the same-origin policy with regards to JavaScript.
+What is the difference between document load and DOMContentLoaded events?
+What is same-origin policy?
+How do you make synchronous HTTP request?
+How do you make asynchronous HTTP request?
+What are the ways to execute javascript after page load?
+What is an HTTP Header?
+How can you prevent CORS issue?
+When to use async and defer when loading JS files?
+Describe how Fetch API makes use of Promises.
+
+
+@channel Day 6 questions
+What are "web workers"?
+What is HTML5 Web Storage? Explain localStorage and sessionStorage.
+What's the difference between the <svg> and <canvas> elements?
+What are custom attributes in HTML5?
+What are the drawbacks of cookies?
+What is purpose of watchPosition() method of geolocation object of HTML5?
+How do you manipulate DOM using service worker?
+What is a cookie?
+How do you delete a cookie?
+What is the main difference between localStorage and sessionStorage?
+How do you check web storage browser support?
+
+
+@channel Day 7 questions
+ What is the difference between JavaScript and jQuery?
+ What is $() in jQuery library?
+ What are the effects methods used in jQuery?
+ What is the use of toggle() method in JQuery?
+ What is the use of html() method in JQuery?
+ What is the use of css() method in JQuery?
+ What is the starting point of code execution in jQuery?
+ What is the difference between find and children methods?
+ What are the selectors in jQuery? How many types of selectors are there in jQuery?
+ What is the use of serialize() method in JQuery?
+ What is the difference between jQuery.get() and jQuery.ajax()?
+ Explain the difference between the .detach() and .remove() methods in jQuery.
+ What's the difference between document.ready() and window.onload()?
+ What's the difference between prop() and attr()?
+
+@channel Day 8 question
+NoSQL related questions
+What are the features of NoSQL?
+Explain the difference between NoSQL v/s Relational database?
+When should I use a NoSQL database instead of a relational database?
+How to do transactions/locking in MongoDB?
+Compare MongoDB with Couchbase and CouchbaseDB.
+Why is MongoDB not chosen for a 32-bit system?
+What are the key features of MongoDB?
+What is CRUD?
+What is Aggregation in MongoDB?
+What is the use of an Index in MongoDB?
+Which command is used to create a database in MongoDB?
+Which command is used to drop a database in MongoDB?
+Which command is used to create a backup of the database?
+What is a Collection in MongoDB?
+Which method is used to update documents into a collection?
+What is the role of profile in MongoDB?
+RDBMS related questions
+Why a database is called as relational database model?
+What are constraints in database?
+What is the difference between primary and foreign key?
+What is an index represent in relational database model?
+What do you understand by database Normalization?
+What is the difference between primary key and unique constraints?
+What are the differences between DDL, DML and DCL in SQL?
+What is the difference between having and where clause?
+What is Join?
+What is a transaction? What are ACID properties?
+List and explain the different types of JOIN clauses supported in ANSI-standard SQL.
+Write a SQL query to find the 10th highest employee salary from an Employee table.
+How can you select all the even number records from a table? Similarly, all the odd number records?
+What is the difference between IN and EXISTS?
+How do you copy data from one table to another table ?
+How to start a Postgresql server in a Linux system?
+Explain the use of aggregate functions in Postgresql?
+What is a JOIN? What are the different JOIN operations supported by ANSI SQL?
+
+
+@channel Day 9 
+ReactJS interview questions
+Differentiate between Real DOM and Virtual DOM.
+List some of the major advantages of React.
+What are the limitations of React?
+What is JSX?
+Can you explain what is the concept of Virtual DOM?
+Why can't browsers use JSX?
+How different is React's ES6 syntax when compared to ES5?
+How is React different from Angular?
+"In React, everything is a component". What does this statement mean?
+What is Props?
+What is a state in React and how is it used?
+Differentiate between states and props.
+How can you update the state of a component?
+What is arrow function in React? How is it used?
+Differentiate between stateful and stateless components.
+What are the different phases of React component's lifecycle?
+Explain the lifecycle methods of React components in detail.
+What are synthetic events in React?
+What do you understand by refs in React?
+What do you know about controlled and uncontrolled components?
+What are Higher Order Components(HOC)?
+What are Pure Components?
+What is the significance of keys in React?
+Why do we need a Router in React?
+What happens when you call setState?
+What's the difference between an Element and a Component in React?
+When would you use a Class Component over a Functional Component?
+What are refs in React and why are they important?
+In which lifecycle method do you make AJAX requests with a Class component?
+What are the most common approaches for styling a React application?
+
+
+@channel DAY 10
+What are the advantages of using Redux than managing the state locally?
+How is Redux different from Flux?
+What is the significance of Store in Redux?
+Explain the role of Reducer in Redux.
+How are Actions defined in Redux?
+Can you list down the components of Redux?
+What do you understand by "Single source of truth" in the world of Redux?
+What are the three principles that Redux follows?
+What is the typical flow of data in a React + Redux app?
+What is store in redux?
+Explain Reducers in Redux?
+Explain action's in Redux?
+What are Pure Functions?
+Can Redux only be used with React?

@@ -1,0 +1,104 @@
+@channel From today mock interview will start, Groups will be same as project group.
+
+Below is the daily basis topic, everyone need to prepare for the given topic and I will post the question on particular day by 6 pm.
+ Day 1
+ Variable Declarations and Hoisting
+ Template Literals
+ Destructuring
+ Sets and Maps
+ 
+ Day 2
+ Functions
+ Javascript Classes
+ Closures
+ 
+ Day 3
+ Functional Programming in Javascript
+ Higher Order Functions
+ Recursion
+ Currying
+ Map, Reduce, Some, Sort Filter and Find
+ Chaining
+ Function methods - apply, bind and call
+ 
+ Day 4
+ DOM
+ DOM Selectors
+ DOM Tree
+ Creating the DOM elements
+ DOM Events
+ Scripting Forms
+ Scripting CSS using Javascript
+ 
+ Day 5
+ Ajax
+ Web page events
+ Cross-Origin Requests
+ HTTP
+ Web APIs (Mostly HTML5 APIs)
+ Other DOM/BOM related topics
+ 
+ Day 6
+ NodeJS
+ NPM
+ NodeJS Core Modules
+ NodeJS Streams
+ Event Emitter
+ Promises
+ Async/Await
+ JSON Web Tokens
+ NodeJS Debugging
+ NodeJS Memory Leaks
+ NodeJS and the CPU
+ Popular External Utilities
+ 
+ Day 7
+ ExpressJS
+ Middlewares
+ Templating Engines
+ Error Handlers
+ Database Integration
+ Common ExpressJS Libraries (Modules)
+ 
+ Day 8
+ Non Relational Databases & MongoDB
+ Relational Databases & SQL
+ 
+ Day 9
+ ReactJS Introduction
+ JSX, Components and Rendering
+ Component State and Life-cycle
+ Event Handling in Components
+ Interacting with AJAX APIs
+ React Router
+ Advanced React Concepts
+ 
+ Day 9 - Redux
+ Introduction
+ Actions
+ Reducers
+ Store
+ Using Redux with React
+ Using Redux with React Router
+ Async actions in Redux
+ Best Practices
+ 
+ Day 10 - DSA
+ Complexities
+ Searching Algorithms
+ Sorting Algorithms
+ Linked List
+ Stacks and Queues
+ Hash Tables
+ Heaps
+ Priority Queue
+ Trees
+ Graphs
+ Math based Algorithms
+ 
+ Day 11 - Computer Science Fundamentals
+ Number Representation in Computers
+ CPU Architecture
+ Operating Systems
+ Process Management
+ Networking
